@@ -7,7 +7,7 @@
 - Food Frenzy: Designed and developed Food Ordering Management System, entirely in C.
 - House on Demand: Designed and developed Real Estate Management System, entirely coded in Java.
 
-- ## Learning
+## Learning
 
 - Currently Exploring Python and Go-Lang to enhance my skills.
 
