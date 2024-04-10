@@ -9,7 +9,7 @@
 
 ## Learning
 
-- Currently Exploring Python and Go-Lang to enhance my skills.
+- Currently Exploring DevOps and Go-Lang to enhance my skills.
 
 ## Contact
 
